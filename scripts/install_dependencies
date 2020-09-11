@@ -1,7 +1,4 @@
 #!/bin/bash
-<<<<<<< HEAD
-apt install -y apache2
-=======
 sudo apt install -y apache2
->>>>>>> 3305b2c074670f924592db380cf7d3894f8cf0e5
+
 
