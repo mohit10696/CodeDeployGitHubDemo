@@ -26,8 +26,8 @@
 </head>
 <body>
   <div align="center">
-    <h1>Congratulations</h1>
-    <h2>This application was deployed using AWS CodeDeploy. from php deplyoment</h2>
+    <h1>Congratulations Your PHP code is live</h1>
+    <h2>This application was deployed using AWS CodeDeploy by Mohit Sojitra(17IT109) . </h2>
     <p>For next steps, read the <a href="http://aws.amazon.com/documentation/codedeploy">AWS CodeDeploy Documentation</a>.</p>
   </div>
 </body>
